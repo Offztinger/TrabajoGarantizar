@@ -26,5 +26,6 @@ G002 Modulo de compra en OLX
     Click Element       xpath=/html/body/div[1]/div/main/div/section/div[2]/div[3]/div[2]/div[2]/ul/li[1]
     sleep  5s
     Click Element       xpath=/html/body/div[1]/div/main/div/div/div/div[5]/div[2]/div/div/button
+    Capture Page Screenshot
     Close Browser
     

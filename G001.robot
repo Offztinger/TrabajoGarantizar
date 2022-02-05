@@ -28,6 +28,7 @@ G001 Modulo de registro
     Click Element       xpath=/html/body/div[4]/div/div/div[2]/div[4]/button
     sleep  5s
     Click Element       xpath=/html/body/div[4]/div/div/form/div[3]/button
+    Capture Page Screenshot
     Close Browser
     
     
