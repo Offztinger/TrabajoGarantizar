@@ -4,7 +4,7 @@ Documentation       Existe en un documento de texto los pasos manuales
 Library             Selenium2Library
 
 *** Variables ***
-${userR}        offztinger@gmail.com
+${userR}        Luis Alejandro
 ${passR}        GarantizarOLX6.
 ${correo}       offztinger@gmail.com
 ${contrasena}   GarantizarOLX6.
