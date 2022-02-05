@@ -1,6 +1,8 @@
 *** Settings ***
 Resource    constants.robot
 
+*** Test Cases ***
+
 G001 Modulo de registro
     Open Browser    ${URL}     ${Navegador}
     Maximize Browser Window
