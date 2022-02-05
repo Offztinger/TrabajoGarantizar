@@ -6,7 +6,7 @@ Library             Selenium2Library
 *** Variables ***
 ${userR}        offztinger@gmail.com
 ${passR}        GarantizarOLX6.
-${correo}       xxx@gmail.com
+${correo}       offztinger@gmail.com
 ${contrasena}   GarantizarOLX6.
 ${Navegador}    chrome
 ${URL}      https://www.olx.com.co/
